@@ -1,5 +1,5 @@
 # DISTANCE-BETWEEN-TWO-POINTS
-
+Name : Divya R V , Reference No : 23014030
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
@@ -10,7 +10,7 @@ Assign the value for y1 and y2.
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
-Print the value for distance between two points with two decimnal places.
+Print the value for distance between two points with two decimal places.
 ### Step 5:
 End the program. 
 ### PROGRAM:
